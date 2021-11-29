@@ -1,5 +1,4 @@
 # Exchange rates
-#### Video Demo:  https://youtu.be/sKqG_m2iGLY
 #### Description:
 This small project was built using React and TypeScript.
 There were also added React router.
